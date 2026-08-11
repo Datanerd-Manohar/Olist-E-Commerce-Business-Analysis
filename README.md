@@ -22,10 +22,10 @@ The analysis investigates:
 
 # Dataset
 
-Dataset: Olist Brazilian E-Commerce Public Dataset 
-Time period: 2016--2018
+- Dataset: Olist Brazilian E-Commerce Public Dataset 
+- Time period: 2016--2018
 
-Main tables:
+Main tables: https://www.kaggle.com/code/kabure/simple-eda-sales-and-customer-patterns/input
 
 - olist_orders_dataset
 - olist_customers_dataset
