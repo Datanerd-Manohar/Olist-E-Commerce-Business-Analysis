@@ -11,14 +11,14 @@ uses SQL to analyze the data, and ends with findings and recommendations. The pr
 
 The analysis investigates:
 
-Customer retention and repeat purchasing
-Monthly sales and revenue trends
-High-value customers
-Product category performance
-Product growth and decline
-Delivery performance by state
-Logistics and delivery delays
-Payment behavior and revenue contribution
+- Customer retention and repeat purchasing
+- Monthly sales and revenue trends
+- High-value customers
+- Product category performance
+- Product growth and decline
+- Delivery performance by state
+- Logistics and delivery delays
+- Payment behavior and revenue contribution
 
 # Dataset
 
@@ -27,20 +27,20 @@ Time period: 2016--2018
 
 Main tables:
 
-olist_orders_dataset
-olist_customers_dataset
-olist_order_items_dataset
-olist_products_dataset
-olist_order_payments_dataset
+- olist_orders_dataset
+- olist_customers_dataset
+- olist_order_items_dataset
+- olist_products_dataset
+- olist_order_payments_dataset
 
 The analysis primarily uses delivered orders when calculating sales,revenue, customer value, and delivery metrics.
 
 # Tools & Technologies
 
-MySQL / SQL --- business analysis
-Power BI --- dashboard and visualization
-GitHub --- documentation and version control
-CSV --- analysis outputs
+- MySQL / SQL --- business analysis
+- Power BI --- dashboard and visualization
+- GitHub --- documentation and version control
+- CSV --- analysis outputs
 
 # SQL Concepts Used
 
