@@ -47,3 +47,4 @@ The analysis primarily uses delivered orders when calculating sales,revenue, cus
 JOINs, CTEs, CASE statements, aggregate functions, COUNT(DISTINCT), date/time functions, GROUP BY, HAVING, subqueries, window functions,
 RANK(), DENSE_RANK(), ROW_NUMBER(), LAG(), LEAD(), and window frames.
 
+<img width="1191" height="635" alt="Screenshot 2026-08-13 at 3 48 01 PM" src="https://github.com/user-attachments/assets/3751a009-5624-4417-bfb1-ce8d93ef4dc4" />
